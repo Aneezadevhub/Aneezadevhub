@@ -10,7 +10,7 @@ I'm a passionate developer who enjoys building modern web applications and conti
 * 💼 Interested in **Full Stack Web Development**
 * 🤝 Open to collaborating on open-source projects
 * 💡 Always exploring new technologies and best practices
-* 📫 Reach me at: **[your-email@example.com](mailto:your-email@example.com)**
+* 📫 Reach me at: **(aneezajameel3242@gmail.com)**
 
 ## 🛠️ Tech Stack
 
